@@ -1,18 +1,12 @@
 <template>
   UZOGA
 
-    <img alt="UZOGA" src="./assets/logo.jpeg" />
-
+  <img alt="UZOGA" src="./assets/logo.jpeg" />
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
-
 export default {
-  name: "App",
-  components: {
-    HelloWorld,
-  },
+  name: "UZOGA App",
 };
 </script>
 
