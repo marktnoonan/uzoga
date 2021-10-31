@@ -1,6 +1,8 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  UZOGA
+
+    <img alt="UZOGA" src="./assets/logo.jpeg" />
+
 </template>
 
 <script>
