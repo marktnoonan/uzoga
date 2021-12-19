@@ -2,6 +2,7 @@
   <img alt="UZOGA" src="./assets/logo.jpeg" />
   <h1>UZOGA</h1>
   <a href="UZOGA2021.pdf">PDF</a>
+  Hi Michael
 </template>
 
 <script>
